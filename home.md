@@ -4,11 +4,11 @@ title: Home
 permalink: /home/
 ---
 
-Brooke Kinion is undergraduate chemistry student at Cal Poly with a 
+I am an undergraduate chemistry student at Cal Poly with a long term goal of becoming a high school chemistry teacher. I am extremely passionate about science and making an impact on young students lives just as my high school teachers did for me.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
+
 
 ### Contact me
 
