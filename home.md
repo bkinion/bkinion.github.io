@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Home
+permalink: /home/
 ---
 
-Some information about you!
+Brooke Kinion is undergraduate chemistry student at Cal Poly with a 
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[armcdona@calpoly.edu](mailto:armcdona@calpoly.edu)
+[bkinion@calpoly.edu](mailto:bkinion@calpoly.edu)
